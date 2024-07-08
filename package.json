@@ -4,6 +4,7 @@
   "description": "Sends the same mail individually to many different recipients",
   "main": "app.js",
   "scripts": {
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
