@@ -1,0 +1,23 @@
+{
+  "name": "mailgun",
+  "version": "1.0.0",
+  "description": "Sends the same mail individually to many different recipients",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliasSchaut/MailGun.git"
+  },
+  "author": "EliasSchaut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EliasSchaut/MailGun/issues"
+  },
+  "homepage": "https://github.com/EliasSchaut/MailGun#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nodemailer": "^6.9.14"
+  }
+}
